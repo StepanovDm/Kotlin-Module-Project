@@ -7,10 +7,10 @@ fun main() {
     println(ordersOnWeb)
     println(textAfterPurchase)
 
-    /*
+
     var workers = 2000
-    println(workers)
-    */
-    var workers = 1999
+    //println(workers)
+
+    workers = 1999
     println(workers)
 }
