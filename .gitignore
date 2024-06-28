@@ -1,5 +1,4 @@
 ### IntelliJ IDEA ###
-.idea/vcs.xml
 .idea/*
 out/
 !**/src/main/**/out/
@@ -26,6 +25,8 @@ bin/
 
 ### VS Code ###
 .vscode/
+.idea/vcs.xml
+
 
 ### Mac OS ###
 .DS_Store
